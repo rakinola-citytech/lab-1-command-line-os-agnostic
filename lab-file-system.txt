@@ -42,7 +42,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+second time.
 
 ==========
 6. Type:
