@@ -10,14 +10,84 @@ Follow the instructions line-by-line.
 
 
 ==========
-1. Open Terminal.  Type:
+1. Open Terminal.  Type:/Users/ms.akinola
 
 $ ls<ENTER>
 
+
 Copy and paste the output of ls below.
 ----------
-Code  Desktop  Documents  Downloads  Movies  Music  Pictures  textfile.txt
 
+#Problem1 - Test Run.py
+-31418744_Akinola_Rukayat_Hw0
+-31418744_Akinola_Rukayat_Hw0.zip
+-31418744_Akinola_Rukayat_Hw1
+-31418744_Akinola_Rukayat_Hw1.zip
+31418744_Akinola_Rukayat_HW2
+Alice3
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+E.py
+ECE114_lab7
+Emailing.php
+FAFSA Summary - FAFSA on the Web - Federal Student Aid.pdf
+Github.py
+Google Drive
+Hw_6.py
+Hw_8.py
+Letters.py
+Library
+Movies
+Music
+New_Directory
+Obstacle.py
+P.py
+Picture.py
+Pictures
+Public
+Rukayat.php
+Scribbler.py
+Sites
+Untitled.py
+a.out
+avoidLine.py
+createDatabase.py
+drawRectangle.py
+drawSquare.py
+file.txt
+finalProject
+forward.py
+hw1_Akinola_Rukayat
+hw4_1_Akinola_Rukayat.c
+hw6_Akinola_Rukayat.c
+hw7
+hw7_Akinola_Rukayat.c
+hw_2_Akinola_Rukayat
+hw_2_Akinola_Rukayat.zip
+hw_3_Akinola_Rukayat
+iCloud Drive (Archive)
+iCloud Drive (Archive) - 1
+iCloud Drive (Archive) - 2
+iCloud Drive (Archive) - 3
+init.py
+insertionSort.py
+lab3_1.c
+lab5_1.c
+lab7
+lab7_1
+lab7_2
+line_follow.py
+myProject
+python-mss
+sample.c
+shape_gui_background.png
+sumOfmultiples.py
+test.py
+write_review.php
 
 ==========
 2a. Type: 
@@ -26,20 +96,87 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-Desktop/    Documents/  Downloads/
+
+Desktop/   Documents/ Downloads/ Dropbox/
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
-----------
-rdrgeerwtger yg erwy brg
+
+Display all 1829 possibilities? (y or n)
+
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
-
-
+!                              httpd                          printafm
+./                             httpd-wrapper                  printenv
+:                              httxt2dbm                      printf
+AssetCacheLocatorUtil          htxelatex                      procsystime
+AssetCacheManagerUtil          htxetex                        productbuild
+AssetCacheTetheratorUtil       ibtool                         productsign
+BTLEServer                     iconutil                       profiles
+BTLEServerAgent                iconv                          prove
+BlueTool                       ictool                         prove5.30
+BootCacheControl               id                             prove5.34
+DeRez                          idlj                           ps
+DevToolsSecurity               if                             ps2ascii
+DirectoryService               ifconfig                       ps2eps
+GetFileInfo                    imptrace                       ps2epsi
+IOAccelMemory                  in                             ps2frag
+IOMFB_FDR_Loader               includeres                     ps2pdf
+IOSDebug                       indent                         ps2pdf12
+KernelEventAgent               infocmp                        ps2pdf13
+PasswordService                infotocap                      ps2pdf14
+ResMerger                      inimf                          ps2pdfwr
+Rez                            initex                         ps2pk
+SafeEjectGPU                   install                        ps2ps
+SetFile                        install_name_tool              ps2ps2
+SplitForks                     installer                      ps4pdf
+WirelessRadioManagerd          installfont-tl                 psbook
+[                              instmodsh                      psjoin
+[[                             instmodsh5.30                  pslatex
+]]                             instmodsh5.34                  psm
+a2ping                         ioalloccount                   psnup
+a5toa4                         ioclasscount                   psresize
+aa                             iofile.d                       psselect
+ab                             iofileb.d                      pst2pdf
+ac                             iopattern                      pstopdf
+accton                         iopending                      pstops
+actool                         ioreg                          ptar
+adhocfilelist                  iosnoop                        ptar5.30
+aea                            iostat                         ptar5.34
+afclip                         iotop                          ptardiff
+afconvert                      ip2cc                          ptardiff5.30
+afhash                         ip2cc5.30                      ptardiff5.34
+afida                          ipconfig                       ptargrep
+afinfo                         ipcount                        ptargrep5.30
+afktool                        ipcount5.30                    ptargrep5.34
+afm2afm                        ipcrm                          ptex
+afm2pl                         ipcs                           ptex2pdf
+afm2tfm                        iperf3-darwin                  ptftopl
+afplay                         ippeveprinter                  purge
+afscexpand                     ippfind                        purifyeps
+agentxtrap                     ipptool                        pushd
+agvtool                        iptab                          pwd
+aleph                          iptab5.30                      pwd_mkdb
+alias                          irb                            pwpolicy
+allcm                          jadetex                        pygmentex
+allec                          jamo-normalize                 python3
+allneeded                      jar                            pythontex
+amstex                         jarsigner                      qlmanage
+amt                            java                           quota
+apachectl                      javac                          quotacheck
+apfs_hfs_convert               javadoc                        quotaoff
+apfs_unlockfv                  javah                          quotaon
+app-sso                        javap                          r-mpost
+appleh13camerad                javapackager                   r-pmpost
+applesingle                    javaws                         r-upmpost
+appletviewer                   jcmd                           racoon
+apply                          jconsole                       rails
+appsleepd                      jcontrol                       rake
+--More--
 
 ==========
 3.  Type:
@@ -48,7 +185,10 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+total 5312
+-rw-r--r--@   1 ms.akinola  staff        1 Sep 19  2018 #Problem1 - Test Run.py
+drwxr-xr-x    6 ms.akinola  staff      192 May  1  2019 -31418744_Akinola_Rukayat_Hw0
+-rw-r--r--    1 ms.akinola  staff  2081933 Sep  5  2018 -31418744_Akinola_Rukayat_Hw0.zip
 
 
 ==========
@@ -59,6 +199,10 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
+.				.localized			MATLAB
+..				Akinola,Rukayat - MyProject	Relocated Items.nosync
+.DS_Store			Arduino				Zoom
+MacBook-Pro-7:~ ms.akinola$ 
 
 
 ==========
@@ -69,7 +213,7 @@ Copy and paste the first *two lines* of output below.
 What command was repeated?
 ----------
 
-
+ls -a Documents
 
 ==========
 6.  Type:
@@ -79,7 +223,7 @@ What command was repeated?
 What command was repeated?
 ----------
 
-
+ls -a Documents
 
 ==========
 7.  Type:
@@ -89,7 +233,7 @@ $ ls /b<TAB><ENTER>
 What is the result of pressing tab?
 ----------
 
-
+ls /bin/
 
 ==========
 8.  Type:
@@ -99,37 +243,38 @@ $ ls doesnotexist
 Copy and paste the output below.
 ----------
 
-
+ls: doesnotexist: No such file or directory
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
 
-
+<UP>
 
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
 
-
+-a & -l
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
 
-
+<TAB>
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
 
-
+ls (list files in directory)
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
 
-
+Document,
+My understanding thus far is that we have commands, flags, and then arguments
 
 ==========
 14.  Type:
@@ -139,7 +284,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 ==========
 15.  Type:
@@ -149,7 +294,7 @@ Copy and paste the output below.
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 ==========
 16.  In the following line....
@@ -158,3 +303,5 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+ls is a command, flag -a(all), Desktop is the argument. I'm not sure what the prompt is
+
